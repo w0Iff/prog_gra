@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Gra_Labirynt
+namespace Labirynt_kod
 {
     class Gracz
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Gra_Labirynt
+namespace Labirynt_kod
 {
     class Labirynt
     {
@@ -22,19 +22,24 @@ namespace Gra_Labirynt
                    col >= 0 && col < Columns &&
                    arch[row, col] != '#';
         }
-        public void PrintLabirynt(int playerRow, int playerCol)
+        public void PrintLabirynt(int graczRow, int graczCol)
         {
+
             Console.Clear();
             for (int i = 0; i < Rows; i++)
             {
                 for (int j = 0; j < Columns; j++)
                 {
-                    if (i == playerRow && j == playerCol)
+                    if (i == graczRow && j == graczCol)
+                        Console.Write('G');
+                    else
                         Console.Write(arch[i, j]);
+
                     Console.Write(' ');
                 }
-                Console.WriteLine();
-            }    
+                Console.Write('\n');
+                //Console.WriteLine();
+            }
         }
     }
 
