@@ -1,8 +1,8 @@
 Prosta gra konsolowa wraz z menu.
 
 Stworzona z dwóch projektów:
-- Labirynt https://github.com/w0Iff/prog_gra/tree/62db11dfd72a70265e1ce176b41bccc2ea8376d6/Labirynt
-- Labirynt_kod
+- Labirynt     https://github.com/w0Iff/prog_gra/tree/62db11dfd72a70265e1ce176b41bccc2ea8376d6/Labirynt
+- Labirynt_kod https://github.com/w0Iff/prog_gra/tree/27ea3935c6e0a84e0c1d75fce02ef98c857ebb53/Labirynt/bin/Debug/net8.0-windows
 
 #######
 
