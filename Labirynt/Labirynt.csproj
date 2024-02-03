@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>52791970_l_normal_none.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="52791970_l_normal_none.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="bin\Debug\net8.0-windows\Labirynt_kod.csproj" />
+  </ItemGroup>
+
+</Project>

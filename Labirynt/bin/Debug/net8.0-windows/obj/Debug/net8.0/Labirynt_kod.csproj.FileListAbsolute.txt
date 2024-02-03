@@ -1,0 +1,120 @@
+C:\Users\Wolf\Desktop\c#\Labirynt\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf\Desktop\c#\Labirynt\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.AssemblyInfoInputs.cache
+C:\Users\Wolf\Desktop\c#\Labirynt\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.AssemblyInfo.cs
+C:\Users\Wolf\Desktop\c#\Labirynt\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Desktop\c#\Labirynt\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.exe
+C:\Users\Wolf\Desktop\c#\Labirynt\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.deps.json
+C:\Users\Wolf\Desktop\c#\Labirynt\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.runtimeconfig.json
+C:\Users\Wolf\Desktop\c#\Labirynt\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\c#\Labirynt\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.pdb
+C:\Users\Wolf\Desktop\c#\Labirynt\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\c#\Labirynt\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\refint\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\c#\Labirynt\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.pdb
+C:\Users\Wolf\Desktop\c#\Labirynt\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.genruntimeconfig.cache
+C:\Users\Wolf\Desktop\c#\Labirynt\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\ref\Labirynt_kod.dll
+C:\Users\Wolf\Documents\GitHub\prog_gra\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf\Documents\GitHub\prog_gra\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.AssemblyInfoInputs.cache
+C:\Users\Wolf\Documents\GitHub\prog_gra\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.AssemblyInfo.cs
+C:\Users\Wolf\Documents\GitHub\prog_gra\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Documents\GitHub\prog_gra\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.sourcelink.json
+C:\Users\Wolf\Documents\GitHub\prog_gra\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.dll
+C:\Users\Wolf\Documents\GitHub\prog_gra\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\refint\Labirynt_kod.dll
+C:\Users\Wolf\Documents\GitHub\prog_gra\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.pdb
+C:\Users\Wolf\Desktop\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.exe
+C:\Users\Wolf\Desktop\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.deps.json
+C:\Users\Wolf\Desktop\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.runtimeconfig.json
+C:\Users\Wolf\Desktop\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.pdb
+C:\Users\Wolf\Desktop\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf\Desktop\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.AssemblyInfoInputs.cache
+C:\Users\Wolf\Desktop\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.AssemblyInfo.cs
+C:\Users\Wolf\Desktop\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Desktop\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\refint\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.pdb
+C:\Users\Wolf\Desktop\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.genruntimeconfig.cache
+C:\Users\Wolf\Desktop\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\ref\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\3\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.exe
+C:\Users\Wolf\Desktop\3\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.deps.json
+C:\Users\Wolf\Desktop\3\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.runtimeconfig.json
+C:\Users\Wolf\Desktop\3\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\3\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.pdb
+C:\Users\Wolf\Desktop\3\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf\Desktop\3\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.AssemblyInfoInputs.cache
+C:\Users\Wolf\Desktop\3\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.AssemblyInfo.cs
+C:\Users\Wolf\Desktop\3\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Desktop\3\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\3\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\refint\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\3\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.pdb
+C:\Users\Wolf\Desktop\3\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.genruntimeconfig.cache
+C:\Users\Wolf\Desktop\3\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\ref\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\3 — kopia\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.exe
+C:\Users\Wolf\Desktop\3 — kopia\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.deps.json
+C:\Users\Wolf\Desktop\3 — kopia\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.runtimeconfig.json
+C:\Users\Wolf\Desktop\3 — kopia\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\3 — kopia\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.pdb
+C:\Users\Wolf\Desktop\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf\Desktop\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.AssemblyInfoInputs.cache
+C:\Users\Wolf\Desktop\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.AssemblyInfo.cs
+C:\Users\Wolf\Desktop\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Desktop\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\refint\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.pdb
+C:\Users\Wolf\Desktop\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.genruntimeconfig.cache
+C:\Users\Wolf\Desktop\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\ref\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.exe
+C:\Users\Wolf\Desktop\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.deps.json
+C:\Users\Wolf\Desktop\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.runtimeconfig.json
+C:\Users\Wolf\Desktop\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.pdb
+C:\Users\Wolf\Desktop\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf\Desktop\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.AssemblyInfoInputs.cache
+C:\Users\Wolf\Desktop\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.AssemblyInfo.cs
+C:\Users\Wolf\Desktop\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Desktop\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\refint\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.pdb
+C:\Users\Wolf\Desktop\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.genruntimeconfig.cache
+C:\Users\Wolf\Desktop\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\ref\Labirynt_kod.dll
+D:\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.exe
+D:\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.deps.json
+D:\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.runtimeconfig.json
+D:\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.dll
+D:\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.pdb
+D:\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.AssemblyInfoInputs.cache
+D:\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.AssemblyInfo.cs
+D:\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.csproj.CoreCompileInputs.cache
+D:\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.dll
+D:\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\refint\Labirynt_kod.dll
+D:\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.pdb
+D:\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.genruntimeconfig.cache
+D:\Nowy folder (2)\3 — kopia\Kod_Labirynt\Labirynt_kod\obj\Debug\net8.0\ref\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\prog_gra\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.exe
+C:\Users\Wolf\Desktop\prog_gra\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.deps.json
+C:\Users\Wolf\Desktop\prog_gra\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.runtimeconfig.json
+C:\Users\Wolf\Desktop\prog_gra\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\prog_gra\Labirynt_kod\bin\Debug\net8.0\Labirynt_kod.pdb
+C:\Users\Wolf\Desktop\prog_gra\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf\Desktop\prog_gra\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.AssemblyInfoInputs.cache
+C:\Users\Wolf\Desktop\prog_gra\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.AssemblyInfo.cs
+C:\Users\Wolf\Desktop\prog_gra\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Desktop\prog_gra\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\prog_gra\Labirynt_kod\obj\Debug\net8.0\refint\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\prog_gra\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.pdb
+C:\Users\Wolf\Desktop\prog_gra\Labirynt_kod\obj\Debug\net8.0\Labirynt_kod.genruntimeconfig.cache
+C:\Users\Wolf\Desktop\prog_gra\Labirynt_kod\obj\Debug\net8.0\ref\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\bin\Debug\net8.0\Labirynt_kod.exe
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\bin\Debug\net8.0\Labirynt_kod.deps.json
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\bin\Debug\net8.0\Labirynt_kod.runtimeconfig.json
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\bin\Debug\net8.0\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\bin\Debug\net8.0\Labirynt_kod.pdb
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\obj\Debug\net8.0\Labirynt_kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\obj\Debug\net8.0\Labirynt_kod.AssemblyInfoInputs.cache
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\obj\Debug\net8.0\Labirynt_kod.AssemblyInfo.cs
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\obj\Debug\net8.0\Labirynt_kod.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\obj\Debug\net8.0\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\obj\Debug\net8.0\refint\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\obj\Debug\net8.0\Labirynt_kod.pdb
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\obj\Debug\net8.0\Labirynt_kod.genruntimeconfig.cache
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\obj\Debug\net8.0\ref\Labirynt_kod.dll

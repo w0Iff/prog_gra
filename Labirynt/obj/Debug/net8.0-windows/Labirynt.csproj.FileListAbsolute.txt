@@ -1,0 +1,61 @@
+D:\Labirynt\obj\Debug\net8.0-windows\Labirynt.Menu.resources
+D:\Labirynt\obj\Debug\net8.0-windows\Labirynt.Ustawienia.resources
+D:\Labirynt\obj\Debug\net8.0-windows\Labirynt.csproj.GenerateResource.cache
+D:\Labirynt\obj\Debug\net8.0-windows\Labirynt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labirynt\obj\Debug\net8.0-windows\Labirynt.AssemblyInfoInputs.cache
+D:\Labirynt\obj\Debug\net8.0-windows\Labirynt.AssemblyInfo.cs
+D:\Labirynt\obj\Debug\net8.0-windows\Labirynt.csproj.CoreCompileInputs.cache
+D:\Labirynt\bin\Debug\net8.0-windows\Labirynt.exe
+D:\Labirynt\bin\Debug\net8.0-windows\Labirynt.deps.json
+D:\Labirynt\bin\Debug\net8.0-windows\Labirynt.runtimeconfig.json
+D:\Labirynt\bin\Debug\net8.0-windows\Labirynt.dll
+D:\Labirynt\bin\Debug\net8.0-windows\Labirynt.pdb
+D:\Labirynt\obj\Debug\net8.0-windows\Labirynt.Properties.Resources.resources
+D:\Labirynt\obj\Debug\net8.0-windows\Labirynt.dll
+D:\Labirynt\obj\Debug\net8.0-windows\refint\Labirynt.dll
+D:\Labirynt\obj\Debug\net8.0-windows\Labirynt.pdb
+D:\Labirynt\obj\Debug\net8.0-windows\Labirynt.genruntimeconfig.cache
+D:\Labirynt\obj\Debug\net8.0-windows\ref\Labirynt.dll
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\Labirynt.exe
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\Labirynt.deps.json
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\Labirynt.runtimeconfig.json
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\Labirynt.dll
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\Labirynt.pdb
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\obj\Debug\net8.0-windows\Labirynt.Menu.resources
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\obj\Debug\net8.0-windows\Labirynt.Properties.Resources.resources
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\obj\Debug\net8.0-windows\Labirynt.Ustawienia.resources
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\obj\Debug\net8.0-windows\Labirynt.csproj.GenerateResource.cache
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\obj\Debug\net8.0-windows\Labirynt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\obj\Debug\net8.0-windows\Labirynt.AssemblyInfoInputs.cache
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\obj\Debug\net8.0-windows\Labirynt.AssemblyInfo.cs
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\obj\Debug\net8.0-windows\Labirynt.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\obj\Debug\net8.0-windows\Labirynt.dll
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\obj\Debug\net8.0-windows\refint\Labirynt.dll
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\obj\Debug\net8.0-windows\Labirynt.pdb
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\obj\Debug\net8.0-windows\Labirynt.genruntimeconfig.cache
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\obj\Debug\net8.0-windows\ref\Labirynt.dll
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\bin\Debug\net8.0-windows\Labirynt.exe
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\bin\Debug\net8.0-windows\Labirynt.deps.json
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\bin\Debug\net8.0-windows\Labirynt.runtimeconfig.json
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\bin\Debug\net8.0-windows\Labirynt.dll
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\bin\Debug\net8.0-windows\Labirynt.pdb
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\obj\Debug\net8.0-windows\Labirynt.Menu.resources
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\obj\Debug\net8.0-windows\Labirynt.Properties.Resources.resources
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\obj\Debug\net8.0-windows\Labirynt.Ustawienia.resources
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\obj\Debug\net8.0-windows\Labirynt.csproj.GenerateResource.cache
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\obj\Debug\net8.0-windows\Labirynt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\obj\Debug\net8.0-windows\Labirynt.AssemblyInfoInputs.cache
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\obj\Debug\net8.0-windows\Labirynt.AssemblyInfo.cs
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\obj\Debug\net8.0-windows\Labirynt.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\obj\Debug\net8.0-windows\Labirynt.dll
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\obj\Debug\net8.0-windows\refint\Labirynt.dll
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\obj\Debug\net8.0-windows\Labirynt.pdb
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\obj\Debug\net8.0-windows\Labirynt.genruntimeconfig.cache
+C:\Users\Wolf\Desktop\prog_gra — kopia\Labirynt\obj\Debug\net8.0-windows\ref\Labirynt.dll
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\Labirynt_kod.deps.json
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\Labirynt_kod.runtimeconfig.json
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\Labirynt_kod.exe
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\Labirynt_kod.dll
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\bin\Debug\net8.0-windows\Labirynt_kod.pdb
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\obj\Debug\net8.0-windows\Labirynt.csproj.AssemblyReference.cache
+C:\Users\Wolf\Desktop\prog_gra\Labirynt\obj\Debug\net8.0-windows\Labirynt.csproj.CopyComplete
