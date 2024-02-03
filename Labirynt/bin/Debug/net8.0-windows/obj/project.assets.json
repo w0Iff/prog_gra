@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wolf\\Desktop\\prog_gra\\Labirynt\\bin\\Debug\\net8.0-windows\\Labirynt_kod.csproj",
+      "projectUniqueName": "C:\\Users\\Wolf\\Documents\\GitHub\\prog_gra\\Labirynt\\bin\\Debug\\net8.0-windows\\Labirynt_kod.csproj",
       "projectName": "Labirynt_kod",
-      "projectPath": "C:\\Users\\Wolf\\Desktop\\prog_gra\\Labirynt\\bin\\Debug\\net8.0-windows\\Labirynt_kod.csproj",
+      "projectPath": "C:\\Users\\Wolf\\Documents\\GitHub\\prog_gra\\Labirynt\\bin\\Debug\\net8.0-windows\\Labirynt_kod.csproj",
       "packagesPath": "C:\\Users\\Wolf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wolf\\Desktop\\prog_gra\\Labirynt\\bin\\Debug\\net8.0-windows\\obj\\",
+      "outputPath": "C:\\Users\\Wolf\\Documents\\GitHub\\prog_gra\\Labirynt\\bin\\Debug\\net8.0-windows\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
