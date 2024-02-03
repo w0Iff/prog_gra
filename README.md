@@ -1,4 +1,4 @@
-Prosta gra konsolowa, z menu.
+Prosta gra konsolowa wraz z menu.
 
 Stworzona z dwóch projektów:
 - Labirynt
